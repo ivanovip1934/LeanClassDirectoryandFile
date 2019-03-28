@@ -17,6 +17,10 @@ namespace LeanClassDirectoryandFile
                 Console.WriteLine("File name: {0}", _string);
             }
 
+
+
+
+
             Console.ReadKey();
         }
     }
